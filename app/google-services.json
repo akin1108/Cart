@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75423101892",
+    "firebase_url": "https://cart-app-5159e.firebaseio.com",
+    "project_id": "cart-app-5159e",
+    "storage_bucket": "cart-app-5159e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75423101892:android:54ddfdb47a8666f3",
+        "android_client_info": {
+          "package_name": "com.akin.medicart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75423101892-25frn2pd7do13i2iobst7gbknbn7evlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akin.medicart",
+            "certificate_hash": "f2e1a143a944363b3e49db989a24d914f5ceb00a"
+          }
+        },
+        {
+          "client_id": "75423101892-b4h1o7m88pbkt3kn1jvkco6fpmlbj9g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAARORAXN1yRSbepFH1jL9PE4jtS1TTSMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75423101892-b4h1o7m88pbkt3kn1jvkco6fpmlbj9g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
